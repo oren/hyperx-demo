@@ -10,8 +10,8 @@ Run
 sudo npm install browserify -g
 npm install
 browserify index.js -o bundle.js
-open index.html in the browser
 ```
+open index.html in the browser
 
 The code
 
