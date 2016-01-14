@@ -6,7 +6,7 @@ Substack's simplified version of React - virtual-dom and main-loop instead of Re
 
 Run
 
-```bash
+```
 sudo npm install browserify -g
 npm install
 browserify index.js -o bundle.js
